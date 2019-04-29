@@ -7,5 +7,7 @@
  
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>	
+
+<p>This is a test of modification.</p>
 </body>
 </html>
